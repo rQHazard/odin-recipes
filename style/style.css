@@ -1,0 +1,21 @@
+
+#title {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: aqua;
+    padding-top: auto;
+    font-size: 150px;
+    color: white;
+}
+
+.list   {
+    color: white;
+}
+
+#guacamole,
+#buffalo,
+#chili {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 25px;
+}
